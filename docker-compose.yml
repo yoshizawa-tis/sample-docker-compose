@@ -20,3 +20,4 @@ services:
             - db
         volumes:
             - .\src:/usr/local/src
+            - .\m2:/root/.m2
